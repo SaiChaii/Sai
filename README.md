@@ -36,7 +36,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SaiChaitanyaReddy&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=SaiChaii&theme=radical" />
 </p>
 
 ---
@@ -44,14 +44,14 @@
 ### 📈 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaiChaitanyaReddy&label=Profile%20views&color=blueviolet&style=flat" alt="SaiChaitanyaReddy" />
+  <img src="https://komarev.com/ghpvc/?username=SaiChaii&label=Profile%20views&color=blueviolet&style=flat" alt="SaiChaitanyaReddy" />
 </p>
 
 ---
 
 ### 🤝 Let's Connect
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/chaitanyadudi/](https://www.linkedin.com/in/chaitanyadudi/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/chaitanyadudi/)
 - 📧 chaitanyareddydudi@gmail.com 
 
 ---
