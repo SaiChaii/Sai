@@ -27,8 +27,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=SaiChaitanyaReddy&show_icons=true&theme=radical" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiChaitanyaReddy&layout=compact&theme=radical" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=SaiChaii&show_icons=true&theme=radical" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiChaii&layout=compact&theme=radical" />
 </p>
 
 ---
