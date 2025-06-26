@@ -36,7 +36,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SaiChaii&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=SaiChaii&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 ---
