@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Chaitanya Reddy</h1>
-<h3 align="center">A passionate Front-End Developer from Bangalore 🇮🇳, growing into a Full Stack Engineer</h3>
+<h3 align="center">A passionate Front-End Developer from Bangalore 🇮🇳, growing into a Java Full Stack Engineer</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 - 🎓 2024 Graduate from NIT Raipur, B.Tech in Information Technology  
 - 💻 Front-End Developer @ Mewurk Technologies  
 - 🚀 Currently building: **SkillSphere** – a collaborative skill-sharing platform  
-- 🌱 Learning: **Spring Boot**, aiming to become a **Full Stack Developer**  
+- 🌱 Learning: **Spring Boot**, aiming to become a **Java Full Stack Developer**  
 - ⚡ Fun Fact: I find peace visiting Hanuman temples & love giving back to the community
 
 ---
